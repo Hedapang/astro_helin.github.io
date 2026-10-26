@@ -1,0 +1,145 @@
+[
+  {
+    "id": "he2026cgm",
+    "year": 2026,
+    "kind": "first",
+    "tag": "CGM",
+    "title": "Constraints on the Hot Circumgalactic Medium Around Nearby L* Galaxies from the SRG/eROSITA All Sky Survey",
+    "authors": "Lin He and Zhiyuan Li",
+    "venue": "The Astrophysical Journal, 1011, 45",
+    "doi": "10.3847/1538-4357/aea97b",
+    "url": "https://doi.org/10.3847/1538-4357/aea97b",
+    "pdf": "2601.16499v2.pdf",
+    "summary": "Stacked eROSITA observations reveal diffuse X-ray emission around nearby L∗ galaxies and constrain the thermal state and radial distribution of the hot CGM.",
+    "publicationDate": {
+      "year": {
+        "value": "2026"
+      },
+      "month": {
+        "value": "11"
+      },
+      "day": {
+        "value": "01"
+      }
+    },
+    "publishedOnline": "2026-10-26",
+    "source": "https://pub.orcid.org/v3.0/0000-0002-7875-9733/work/231241291",
+    "verifiedAt": "2026-10-26",
+    "authorPosition": 1,
+    "sortDate": "2026-11-01"
+  },
+  {
+    "id": "zou2026macer",
+    "kind": "co",
+    "tag": "Feedback",
+    "authors": "Yuxuan Zou, Feng Yuan, Suoqing Ji, Lin He, Zhiyuan Li, Yi Zhang, Johan Comparat, Zhijie Qu, and Taotao Fang",
+    "summary": "",
+    "pdf": null,
+    "title": "A Systematic Study of AGN Feedback in a Disk Galaxy Using MACER. II. Predictions of X-Ray Surface Brightness Profiles and Comparison with eROSITA Observations",
+    "year": 2026,
+    "doi": "10.3847/1538-4357/ae6778",
+    "url": "https://doi.org/10.3847/1538-4357/ae6778",
+    "venue": "The Astrophysical Journal, 1003, 199",
+    "publicationDate": {
+      "year": {
+        "value": "2026"
+      },
+      "month": {
+        "value": "06"
+      },
+      "day": {
+        "value": "01"
+      }
+    },
+    "publishedOnline": "2026-5-26",
+    "source": "https://pub.orcid.org/v3.0/0000-0002-7875-9733/work/215749668",
+    "verifiedAt": "2026-10-26",
+    "authorPosition": 4,
+    "sortDate": "2026-06-01"
+  },
+  {
+    "id": "he2025bubbles",
+    "year": 2025,
+    "kind": "first",
+    "tag": "Feedback",
+    "title": "Discovery of Giant Bubbles in the Hot Gaseous Halo of the Massive Disk Galaxy NGC 6286",
+    "authors": "Lin He, Zhiyuan Li, Zongnan Li, Rubén García-Benito, Yuanqi Liu, and Meicun Hou",
+    "venue": "The Astrophysical Journal, 992, 86",
+    "doi": "10.3847/1538-4357/ae0722",
+    "pdf": "He_2025_ApJ_992_86.pdf",
+    "summary": "Multiwavelength observations reveal giant bubbles linked to a galactic superwind. The current starburst can power the outflow; past AGN activity remains a possible contributor.",
+    "url": "https://doi.org/10.3847/1538-4357/ae0722",
+    "source": "https://pub.orcid.org/v3.0/0000-0002-7875-9733/work/193636287",
+    "verifiedAt": "2026-10-26",
+    "authorPosition": 1,
+    "sortDate": "2025-10-10"
+  },
+  {
+    "id": "he2025ngc7793",
+    "year": 2025,
+    "kind": "first",
+    "tag": "CGM",
+    "title": "Probing the Hot Gaseous Halo of the Low-mass Disk Galaxy NGC 7793 with eROSITA and Chandra",
+    "authors": "Lin He, Zhiyuan Li, Meicun Hou, Min Du, Taotao Fang, and Wei Cui",
+    "venue": "The Astrophysical Journal, 983, 149",
+    "doi": "10.3847/1538-4357/adc0a0",
+    "pdf": "He_2025_ApJ_983_149.pdf",
+    "summary": "Evidence for extraplanar hot gas in a low-mass disk galaxy provides a test of feedback and hot-halo predictions from cosmological simulations.",
+    "url": "https://doi.org/10.3847/1538-4357/adc0a0",
+    "source": "https://pub.orcid.org/v3.0/0000-0002-7875-9733/work/182367882",
+    "verifiedAt": "2026-10-26",
+    "authorPosition": 1,
+    "sortDate": "2025-04-20"
+  },
+  {
+    "id": "hou2024virgo",
+    "year": 2024,
+    "kind": "co",
+    "tag": "CGM",
+    "title": "X-Ray Constraints on the Hot Gaseous Corona of Edge-on Late-type Galaxies in Virgo",
+    "authors": "Meicun Hou, Lin He, Zhensong Hu, Zhiyuan Li, Christine Jones, William Forman, Yuanyuan Su, Jing Wang, and Luis C. Ho",
+    "venue": "The Astrophysical Journal, 961, 249",
+    "doi": "10.3847/1538-4357/ad138a",
+    "pdf": "Hou_2024_ApJ_961_249.pdf",
+    "summary": "Chandra observations constrain hot coronae in Virgo disk galaxies and the interplay of star formation and the cluster environment.",
+    "url": "https://doi.org/10.3847/1538-4357/ad138a",
+    "source": "https://pub.orcid.org/v3.0/0000-0002-7875-9733/work/152018695",
+    "verifiedAt": "2026-10-26",
+    "authorPosition": 2,
+    "sortDate": "2024-02-01"
+  },
+  {
+    "id": "li2024groups",
+    "year": 2024,
+    "kind": "co",
+    "tag": "Hot gas",
+    "title": "Robust Detection of Hot Intragroup Medium in Optically Selected, Poor Galaxy Groups by eROSITA",
+    "authors": "Dawei Li, Taotao Fang, Chong Ge, Teng Liu, Lin He, Zhiyuan Li, Fabrizio Nicastro, Xiaohu Yang, Xiaoxia Zhang, and Yun-Liang Zheng",
+    "venue": "The Astrophysical Journal Letters, 977, L40",
+    "doi": "10.3847/2041-8213/ad991c",
+    "pdf": "Li_2024_ApJL_977_L40.pdf",
+    "summary": "Stacked eROSITA data reveal hot intragroup gas in optically selected poor groups, while a baryon deficit persists.",
+    "url": "https://doi.org/10.3847/2041-8213/ad991c",
+    "source": "https://pub.orcid.org/v3.0/0000-0002-7875-9733/work/173735772",
+    "verifiedAt": "2026-10-26",
+    "authorPosition": 5,
+    "sortDate": "2024-12-20"
+  },
+  {
+    "id": "he2023pairs",
+    "year": 2023,
+    "kind": "first",
+    "tag": "AGN",
+    "title": "A Chandra X-Ray Survey of Optically Selected Close Galaxy Pairs: Unexpectedly Low Occupation of Active Galactic Nuclei",
+    "authors": "Lin He, Meicun Hou, Zhiyuan Li, Shuai Feng, and Xin Liu",
+    "venue": "The Astrophysical Journal, 949, 49",
+    "doi": "10.3847/1538-4357/acc5e1",
+    "pdf": "He_2023_ApJ_949_49.pdf",
+    "summary": "An X-ray survey of 92 close galaxy pairs finds that close interaction alone is not sufficient to trigger strong nuclear activity.",
+    "url": "https://doi.org/10.3847/1538-4357/acc5e1",
+    "source": "https://pub.orcid.org/v3.0/0000-0002-7875-9733/work/135803080",
+    "verifiedAt": "2026-10-26",
+    "authorPosition": 1,
+    "sortDate": "2023-06-01"
+  }
+]
